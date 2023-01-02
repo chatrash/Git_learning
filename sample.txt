@@ -4,3 +4,4 @@ My friend name is Chatrash
 He's a Software Engineer 
 
 I'm learning git today!!!
+This commit will not go to Staging area!!!
